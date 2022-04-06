@@ -1,0 +1,1 @@
+Here is possible to notice how companies related to each other, such as Nike, Puma, and Adidas in periods where one company has high performance and the other suffers from a period of low profit. Obviously in some cases, such as in 2009 and 2020, when there is a crisis the price of the stock decreases exponentially.
