@@ -12,9 +12,9 @@ df1['Date'] = pd.to_datetime(df1.Date)
 df2['Date'] = pd.to_datetime(df2.Date)
 df3['Date'] = pd.to_datetime(df3.Date)
 
-mean1 = df1["Close"].mean()
-mean2 = df2["Close"].mean()
-mean3 = df3["Close"].mean()
+#mean1 = df1["Close"].mean()
+#mean2 = df2["Close"].mean()
+#mean3 = df3["Close"].mean()
 
 
 plt.figure("Nike, Adidas, and Puma Stocks")
